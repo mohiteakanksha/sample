@@ -1,0 +1,44 @@
+nav {
+    border: 1px;
+    background-color: black;
+    color: white;
+    padding: 6px;
+}
+ 
+a {
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+}
+button{
+    background-color: white;
+    text-emphasis-color: black;
+     position: absolute;
+    top: 8px;
+    right: 8px;
+    font-size: 18px;
+    
+}
+body {
+  width: 100%;
+  margin: 1px auto;
+  font-size: 20px;
+}
+
+table:first-child {
+ 
+  color: white;
+  margin-right: 1%;
+}
+
+table:nth-child(2n) {
+  
+  color: white;
+  margin-right: 1%;
+  
+}
+
+table {
+  width: 50%;
+  float: left;
+}
